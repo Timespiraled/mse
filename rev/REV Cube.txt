@@ -1,0 +1,4511 @@
+[CustomCards]
+	[	{
+			"name": "Clearwater Grotto",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Clearwater Grotto.png"
+			}
+		},
+		{
+			"name": "Enigmatic Fen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Enigmatic Fen.png"
+			}
+		},
+		{
+			"name": "Lucent Basin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lucent Basin.png"
+			}
+		},
+		{
+			"name": "Misty Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Misty Peak.png"
+			}
+		},
+		{
+			"name": "Profane Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Profane Grove.png"
+			}
+		},
+		{
+			"name": "Sanguine Palace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sanguine Palace.png"
+			}
+		},
+		{
+			"name": "Stark Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Stark Expanse.png"
+			}
+		},
+		{
+			"name": "Urban Jungle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Urban Jungle.png"
+			}
+		},
+		{
+			"name": "Verdant Sanctum",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Verdant Sanctum.png"
+			}
+		},
+		{
+			"name": "Windbeaten Stones",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Windbeaten Stones.png"
+			}
+		},
+		{
+			"name": "Desolate Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Desolate Path.png"
+			}
+		},
+		{
+			"name": "Distant Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Distant Path.png"
+			}
+		},
+		{
+			"name": "Erosive Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Erosive Path.png"
+			}
+		},
+		{
+			"name": "Forlorn Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Forlorn Path.png"
+			}
+		},
+		{
+			"name": "Meandering Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Meandering Path.png"
+			}
+		},
+		{
+			"name": "Murky Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Murky Path.png"
+			}
+		},
+		{
+			"name": "Rousing Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Rousing Path.png"
+			}
+		},
+		{
+			"name": "Sodden Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sodden Path.png"
+			}
+		},
+		{
+			"name": "Thicketed Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Thicketed Path.png"
+			}
+		},
+		{
+			"name": "Torrid Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Torrid Path.png"
+			}
+		},
+		{
+			"name": "Hazakh District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hazakh District.png"
+			}
+		},
+		{
+			"name": "Penrath District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Penrath District.png"
+			}
+		},
+		{
+			"name": "Sillaman District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sillaman District.png"
+			}
+		},
+		{
+			"name": "Tiril District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tiril District.png"
+			}
+		},
+		{
+			"name": "Vishanki District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vishanki District.png"
+			}
+		},
+		{
+			"name": "Barren Ashlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Barren Ashlands.png"
+			}
+		},
+		{
+			"name": "Buried Colossus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Buried Colossus.png"
+			}
+		},
+		{
+			"name": "Ephemeral Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ephemeral Mire.png"
+			}
+		},
+		{
+			"name": "Gates to the Underworld",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gates to the Underworld.png"
+			}
+		},
+		{
+			"name": "Hundred-Handed Pillars",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hundred-Handed Pillars.png"
+			}
+		},
+		{
+			"name": "Miasmic Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Miasmic Cove.png"
+			}
+		},
+		{
+			"name": "Nessian Woods",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nessian Woods.png"
+			}
+		},
+		{
+			"name": "Nimbus of Thought",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nimbus of Thought.png"
+			}
+		},
+		{
+			"name": "Shell Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Shell Cove.png"
+			}
+		},
+		{
+			"name": "Titan's Stairs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Titan's Stairs.png"
+			}
+		},
+		{
+			"name": "Ardent Rise",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ardent Rise.png"
+			}
+		},
+		{
+			"name": "Faulty Server",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Faulty Server.png"
+			}
+		},
+		{
+			"name": "Forgotten Junkyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Forgotten Junkyard.png"
+			}
+		},
+		{
+			"name": "Glittering Club",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Glittering Club.png"
+			}
+		},
+		{
+			"name": "Isolated Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Isolated Tower.png"
+			}
+		},
+		{
+			"name": "Lost and Found",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lost and Found.png"
+			}
+		},
+		{
+			"name": "Meteoric Facade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Meteoric Facade.png"
+			}
+		},
+		{
+			"name": "Regrowing Outlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Regrowing Outlands.png"
+			}
+		},
+		{
+			"name": "Reified Borough",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reified Borough.png"
+			}
+		},
+		{
+			"name": "Silent Lakefront",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Silent Lakefront.png"
+			}
+		},
+		{
+			"name": "Primal Fissure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Primal Fissure.png"
+			}
+		},
+		{
+			"name": "Protean Boughs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Protean Boughs.png"
+			}
+		},
+		{
+			"name": "Redeveloped Cityscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Redeveloped Cityscape.png"
+			}
+		},
+		{
+			"name": "Steadfast Gatekeepers",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Ruin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Steadfast Gatekeepers.png"
+			}
+		},
+		{
+			"name": "Temple of Origins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Temple of Origins.png"
+			}
+		},
+		{
+			"name": "Timeworn Crags",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Timeworn Crags.png"
+			}
+		},
+		{
+			"name": "Estrathe, Center of Civilization",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Estrathe, Center of Civilization.png"
+			}
+		},
+		{
+			"name": "Mirage Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mirage Island.png"
+			}
+		},
+		{
+			"name": "Sky Pillar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sky Pillar.png"
+			}
+		},
+		{
+			"name": "Gate to Fujinobe",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gate to Fujinobe.png"
+			}
+		},
+		{
+			"name": "Claes, Shield of Karda",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Claes, Shield of Karda.png"
+			}
+		},
+		{
+			"name": "Danuja, Emperor's Pet",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Bird Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Danuja, Emperor's Pet.png"
+			}
+		},
+		{
+			"name": "Kitsune Matriarch",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kitsune Matriarch.png"
+			}
+		},
+		{
+			"name": "Mellan, Defense Attorney",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mellan, Defense Attorney.png"
+			}
+		},
+		{
+			"name": "Nomad's Companion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Nomad ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nomad's Companion.png"
+			}
+		},
+		{
+			"name": "Ofuda Mistress",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ofuda Mistress.png"
+			}
+		},
+		{
+			"name": "Voice of Utopia",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Voice of Utopia.png"
+			}
+		},
+		{
+			"name": "Contest Coordinator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Performer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Contest Coordinator.png"
+			}
+		},
+		{
+			"name": "Genotype Splicer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer Mutant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Genotype Splicer.png"
+			}
+		},
+		{
+			"name": "Highland Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Highland Guide.png"
+			}
+		},
+		{
+			"name": "Illusory Savior",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Illusion Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Illusory Savior.png"
+			}
+		},
+		{
+			"name": "Lost Resistor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lost Resistor.png"
+			}
+		},
+		{
+			"name": "Prince of the Pride",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Cat Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Prince of the Pride.png"
+			}
+		},
+		{
+			"name": "Screeching Grauku",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin Elk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Screeching Grauku.png"
+			}
+		},
+		{
+			"name": "Sculptor's Replica",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem Monk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sculptor's Replica.png"
+			}
+		},
+		{
+			"name": "Smart Shopper",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Smart Shopper.png"
+			}
+		},
+		{
+			"name": "Sunbeam Alseid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Nymph ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sunbeam Alseid.png"
+			}
+		},
+		{
+			"name": "Weave Dispatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Weave Dispatcher.png"
+			}
+		},
+		{
+			"name": "Alrantan Archon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Alrantan Archon.png"
+			}
+		},
+		{
+			"name": "Basilo, Lion of Valor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Basilo, Lion of Valor.png"
+			}
+		},
+		{
+			"name": "Containment Seraph",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Angel ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Containment Seraph.png"
+			}
+		},
+		{
+			"name": "Elder Tattooist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Monk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Elder Tattooist.png"
+			}
+		},
+		{
+			"name": "Iara, Blessed-Hart",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Iara, Blessed-Hart.png"
+			}
+		},
+		{
+			"name": "Looming Cyhawk",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Bird Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Looming Cyhawk.png"
+			}
+		},
+		{
+			"name": "Renowned Roughrider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Renowned Roughrider.png"
+			}
+		},
+		{
+			"name": "Yokinzan General",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Yokinzan General.png"
+			}
+		},
+		{
+			"name": "Ayeshi's Agent",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ayeshi's Agent.png"
+			}
+		},
+		{
+			"name": "Bringer of Heliod's Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Archon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Bringer of Heliod's Light.png"
+			}
+		},
+		{
+			"name": "Chosen of Heliod",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Archer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chosen of Heliod.png"
+			}
+		},
+		{
+			"name": "Imperious Admin",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Imperious Admin.png"
+			}
+		},
+		{
+			"name": "Mobilization Technician",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mobilization Technician.png"
+			}
+		},
+		{
+			"name": "Dragon of Recollection",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Dragon of Recollection.png"
+			}
+		},
+		{
+			"name": "Agnomakhos, Justice",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Archon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Agnomakhos, Justice.png"
+			}
+		},
+		{
+			"name": "General Diadem, Usurper",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/General Diadem, Usurper.png"
+			}
+		},
+		{
+			"name": "Archon of the Legion",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Archon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Archon of the Legion.png"
+			}
+		},
+		{
+			"name": "The Army of Trax",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Creature — Archon Army ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Army of Trax.png"
+			}
+		},
+		{
+			"name": "Plasma Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Plasma Strike.png"
+			}
+		},
+		{
+			"name": "Imperial Tour",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Imperial Tour.png"
+			}
+		},
+		{
+			"name": "Omen of Victory",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omen of Victory.png"
+			}
+		},
+		{
+			"name": "Seal Away",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Seal Away.png"
+			}
+		},
+		{
+			"name": "Swift Reproach",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Swift Reproach.png"
+			}
+		},
+		{
+			"name": "The Ruins Awaken",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Ruins Awaken.png"
+			}
+		},
+		{
+			"name": "Futurist Ideal",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Futurist Ideal.png"
+			}
+		},
+		{
+			"name": "Gone Pickin'",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gone Pickin'.png"
+			}
+		},
+		{
+			"name": "RETURN()",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/RETURN().png"
+			}
+		},
+		{
+			"name": "The Fall of Trax",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Fall of Trax.png"
+			}
+		},
+		{
+			"name": "Cassia the Carefree",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Cassia ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Cassia the Carefree.png"
+			}
+		},
+		{
+			"name": "Chronicle of Bequeathal",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chronicle of Bequeathal.png"
+			}
+		},
+		{
+			"name": "EXIT()",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/EXIT().png"
+			}
+		},
+		{
+			"name": "Remnant of Valor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact — Ruin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Remnant of Valor.png"
+			}
+		},
+		{
+			"name": "Chromatic Rift",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chromatic Rift.png"
+			}
+		},
+		{
+			"name": "Revolt at the Palace",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Revolt at the Palace.png"
+			}
+		},
+		{
+			"name": "The Dutiful Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Dutiful Wanderer.png"
+			}
+		},
+		{
+			"name": "Welkin Eviction",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Welkin Eviction.png"
+			}
+		},
+		{
+			"name": "Illustrious Sheng Fa",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Fa ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Illustrious Sheng Fa.png"
+			}
+		},
+		{
+			"name": "Tyranny of Trax",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tyranny of Trax.png"
+			}
+		},
+		{
+			"name": "Auspicious Return",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Auspicious Return.png"
+			}
+		},
+		{
+			"name": "Charming Siren",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Siren Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Charming Siren.png"
+			}
+		},
+		{
+			"name": "Demographer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Demographer.png"
+			}
+		},
+		{
+			"name": "Sleeper Strix",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sleeper Strix.png"
+			}
+		},
+		{
+			"name": "Tireless Aspirants",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tireless Aspirants.png"
+			}
+		},
+		{
+			"name": "Agent of Deception",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Agent of Deception.png"
+			}
+		},
+		{
+			"name": "Daring Shinobi",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fox Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Daring Shinobi.png"
+			}
+		},
+		{
+			"name": "Haubay's Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Haubay's Familiar.png"
+			}
+		},
+		{
+			"name": "Unspeaking Titan",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Unspeaking Titan.png"
+			}
+		},
+		{
+			"name": "Whitecliff Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Whitecliff Pilgrim.png"
+			}
+		},
+		{
+			"name": "Battle Physicist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Battle Physicist.png"
+			}
+		},
+		{
+			"name": "Callisto, the Teqiarch",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Callisto, the Teqiarch.png"
+			}
+		},
+		{
+			"name": "Covetous Frostwyrm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Covetous Frostwyrm.png"
+			}
+		},
+		{
+			"name": "Twilight Agent",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Twilight Agent.png"
+			}
+		},
+		{
+			"name": "Trinity of Fates",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Trinity of Fates.png"
+			}
+		},
+		{
+			"name": "Mnemologist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mnemologist.png"
+			}
+		},
+		{
+			"name": "Opal-Eye Allseer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Opal-Eye Allseer.png"
+			}
+		},
+		{
+			"name": "Preemption Daemon",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment Creature — Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Preemption Daemon.png"
+			}
+		},
+		{
+			"name": "Threadweaver Shinobi",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Threadweaver Shinobi.png"
+			}
+		},
+		{
+			"name": "Eidolon of Graceful Steps",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Eidolon of Graceful Steps.png"
+			}
+		},
+		{
+			"name": "Convol, Archive Exec",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}{U}{U}",
+			"type": "Legendary Creature — Spirit Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Convol, Archive Exec.png"
+			}
+		},
+		{
+			"name": "Jetstream Cruiser",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Bird Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Jetstream Cruiser.png"
+			}
+		},
+		{
+			"name": "King of Shallow Shores",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/King of Shallow Shores.png"
+			}
+		},
+		{
+			"name": "Stormscraper of Ketaphos",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Leviathan ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Stormscraper of Ketaphos.png"
+			}
+		},
+		{
+			"name": "Oracle of Zakros",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Cyclops Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Oracle of Zakros.png"
+			}
+		},
+		{
+			"name": "Behemoth of the Five Rivers",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan Whale ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Behemoth of the Five Rivers.png"
+			}
+		},
+		{
+			"name": "Cybersaurus",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Cybersaurus.png"
+			}
+		},
+		{
+			"name": "Raboorah Goliath",
+			"rarity": "common",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Fish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Raboorah Goliath.png"
+			}
+		},
+		{
+			"name": "Underflow_Error",
+			"rarity": "common",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Error Skeleton ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Underflow_Error.png"
+			}
+		},
+		{
+			"name": "Ebb and Flow",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ebb and Flow.png"
+			}
+		},
+		{
+			"name": "Industrialize",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Industrialize.png"
+			}
+		},
+		{
+			"name": "Thassa's Caress",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Thassa's Caress.png"
+			}
+		},
+		{
+			"name": "Deft Deflection",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Deft Deflection.png"
+			}
+		},
+		{
+			"name": "Negate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Negate.png"
+			}
+		},
+		{
+			"name": "Omen of Deception",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omen of Deception.png"
+			}
+		},
+		{
+			"name": "Ominous Seas",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ominous Seas.png"
+			}
+		},
+		{
+			"name": "Research Grant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Policy ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Research Grant.png"
+			}
+		},
+		{
+			"name": "Sink into Obscurity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sink into Obscurity.png"
+			}
+		},
+		{
+			"name": "Avatar's Whim",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Avatar's Whim.png"
+			}
+		},
+		{
+			"name": "Chronicle of Precedence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chronicle of Precedence.png"
+			}
+		},
+		{
+			"name": "Divine Mishap",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Divine Mishap.png"
+			}
+		},
+		{
+			"name": "Marilye, Dreaming Big",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Marilye ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Marilye, Dreaming Big.png"
+			}
+		},
+		{
+			"name": "Siphon Energy",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Siphon Energy.png"
+			}
+		},
+		{
+			"name": "The Founding of the Twelve",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Founding of the Twelve.png"
+			}
+		},
+		{
+			"name": "Callisto's Confiscation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Callisto's Confiscation.png"
+			}
+		},
+		{
+			"name": "Rain Dance",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Weather ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Rain Dance.png"
+			}
+		},
+		{
+			"name": "Elder Eras",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Elder Eras.png"
+			}
+		},
+		{
+			"name": "Grasp of the Elements",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Grasp of the Elements.png"
+			}
+		},
+		{
+			"name": "The Sinking of Olantin",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Sinking of Olantin.png"
+			}
+		},
+		{
+			"name": "The World Stood Still",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The World Stood Still.png"
+			}
+		},
+		{
+			"name": "The Arbiter",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Planeswalker — Haubay ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Arbiter.png"
+			}
+		},
+		{
+			"name": "Leystone of Depths",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Leystone of Depths.png"
+			}
+		},
+		{
+			"name": "Pass Judgment",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Pass Judgment.png"
+			}
+		},
+		{
+			"name": "Voyage to the Siren Sea",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Voyage to the Siren Sea.png"
+			}
+		},
+		{
+			"name": "Seafloor Treasures",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Seafloor Treasures.png"
+			}
+		},
+		{
+			"name": "Scour All Possibilities",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Scour All Possibilities.png"
+			}
+		},
+		{
+			"name": "Gaze Upon Civilization",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gaze Upon Civilization.png"
+			}
+		},
+		{
+			"name": "Aphonai's Reveler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Satyr Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aphonai's Reveler.png"
+			}
+		},
+		{
+			"name": "Rooftop Slink",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Rooftop Slink.png"
+			}
+		},
+		{
+			"name": "Capital Skyraiders",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Capital Skyraiders.png"
+			}
+		},
+		{
+			"name": "Omen Skulker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omen Skulker.png"
+			}
+		},
+		{
+			"name": "Catabolist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Warlock ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Catabolist.png"
+			}
+		},
+		{
+			"name": "Exorcist of Errors",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Exorcist of Errors.png"
+			}
+		},
+		{
+			"name": "Fallen Heartseeker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Fallen Heartseeker.png"
+			}
+		},
+		{
+			"name": "Inklight Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Performer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Inklight Dancer.png"
+			}
+		},
+		{
+			"name": "Keeper of the Scale",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Keeper of the Scale.png"
+			}
+		},
+		{
+			"name": "Lurking Vyrkolakas",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lurking Vyrkolakas.png"
+			}
+		},
+		{
+			"name": "Replicrawler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Spider Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Replicrawler.png"
+			}
+		},
+		{
+			"name": "Smiling Sludge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Ooze ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Smiling Sludge.png"
+			}
+		},
+		{
+			"name": "Barbarous Roughrider",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Barbarous Roughrider.png"
+			}
+		},
+		{
+			"name": "Chrolcatos, Pidae's Founder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Gorgon Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chrolcatos, Pidae's Founder.png"
+			}
+		},
+		{
+			"name": "Data Weaver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Warlock ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Data Weaver.png"
+			}
+		},
+		{
+			"name": "Corrupt Congressman",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Corrupt Congressman.png"
+			}
+		},
+		{
+			"name": "Kage's Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kage's Mercenary.png"
+			}
+		},
+		{
+			"name": "Merciless Headsman",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Assassin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Merciless Headsman.png"
+			}
+		},
+		{
+			"name": "The Venerable Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Minion ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Venerable Veteran.png"
+			}
+		},
+		{
+			"name": "Merciless Ruiner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Merciless Ruiner.png"
+			}
+		},
+		{
+			"name": "Spiteful Griefer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Pirate ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spiteful Griefer.png"
+			}
+		},
+		{
+			"name": "Inner Ring's Pupil",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Inner Ring's Pupil.png"
+			}
+		},
+		{
+			"name": "Judge, Jury, and Executioner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Advisor Citizen Assassin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Judge, Jury, and Executioner.png"
+			}
+		},
+		{
+			"name": "Lifehacker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lifehacker.png"
+			}
+		},
+		{
+			"name": "Slighos the Body-Binder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Slighos the Body-Binder.png"
+			}
+		},
+		{
+			"name": "Kimja Deadeye",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Samurai ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kimja Deadeye.png"
+			}
+		},
+		{
+			"name": "Phyto's Offshoot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Fungus Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Phyto's Offshoot.png"
+			}
+		},
+		{
+			"name": "Askir, the Defiler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Askir, the Defiler.png"
+			}
+		},
+		{
+			"name": "Gray Merchant of Asphodel",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gray Merchant of Asphodel.png"
+			}
+		},
+		{
+			"name": "Malicious Skycleaver",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Malicious Skycleaver.png"
+			}
+		},
+		{
+			"name": "General of the Damned",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/General of the Damned.png"
+			}
+		},
+		{
+			"name": "Furies of the Natural Order",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Furies of the Natural Order.png"
+			}
+		},
+		{
+			"name": "Absentia",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Absentia.png"
+			}
+		},
+		{
+			"name": "Downlink Overload",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Downlink Overload.png"
+			}
+		},
+		{
+			"name": "Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Duress.png"
+			}
+		},
+		{
+			"name": "Phenax's Touch",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Phenax's Touch.png"
+			}
+		},
+		{
+			"name": "Agonizing Remorse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Agonizing Remorse.png"
+			}
+		},
+		{
+			"name": "Aspect of the End",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Artifact — Ruin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aspect of the End.png"
+			}
+		},
+		{
+			"name": "Deadly Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Deadly Dispute.png"
+			}
+		},
+		{
+			"name": "Dissect Intel",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Dissect Intel.png"
+			}
+		},
+		{
+			"name": "Drag into the Dark",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Drag into the Dark.png"
+			}
+		},
+		{
+			"name": "Forced Shutdown",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Forced Shutdown.png"
+			}
+		},
+		{
+			"name": "Hang",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hang.png"
+			}
+		},
+		{
+			"name": "Hostage Situation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hostage Situation.png"
+			}
+		},
+		{
+			"name": "Maim",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Maim.png"
+			}
+		},
+		{
+			"name": "Omen of Slaughter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omen of Slaughter.png"
+			}
+		},
+		{
+			"name": "Stained Strokes",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Stained Strokes.png"
+			}
+		},
+		{
+			"name": "Failed Gateway",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Failed Gateway.png"
+			}
+		},
+		{
+			"name": "Out with the Old",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Out with the Old.png"
+			}
+		},
+		{
+			"name": "Serve Again",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Serve Again.png"
+			}
+		},
+		{
+			"name": "The Path of Phenax",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Path of Phenax.png"
+			}
+		},
+		{
+			"name": "Chronicle of Extinction",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chronicle of Extinction.png"
+			}
+		},
+		{
+			"name": "Conqueror's Glee",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Conqueror's Glee.png"
+			}
+		},
+		{
+			"name": "Noxious Conditions",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Noxious Conditions.png"
+			}
+		},
+		{
+			"name": "Damn to Hell",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Damn to Hell.png"
+			}
+		},
+		{
+			"name": "Reboot",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reboot.png"
+			}
+		},
+		{
+			"name": "The Inferno Gate Opens",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Inferno Gate Opens.png"
+			}
+		},
+		{
+			"name": "Calamity Cat",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Calamity Cat.png"
+			}
+		},
+		{
+			"name": "Hero in the Making",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Satyr Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hero in the Making.png"
+			}
+		},
+		{
+			"name": "Impulsive Underling",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Demon Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Impulsive Underling.png"
+			}
+		},
+		{
+			"name": "Jorgen, Martyr of the Rathomar",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Berserker ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Jorgen, Martyr of the Rathomar.png"
+			}
+		},
+		{
+			"name": "Newborn Oni",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Demon Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Newborn Oni.png"
+			}
+		},
+		{
+			"name": "Red-Hot Rider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hyena Bat Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Red-Hot Rider.png"
+			}
+		},
+		{
+			"name": "Arid Outrider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Arid Outrider.png"
+			}
+		},
+		{
+			"name": "Eidolon of Empty Thoughts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Eidolon of Empty Thoughts.png"
+			}
+		},
+		{
+			"name": "Ragecloak Shifter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Shapeshifter Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ragecloak Shifter.png"
+			}
+		},
+		{
+			"name": "Cache Thrasher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Cache Thrasher.png"
+			}
+		},
+		{
+			"name": "Estranged Aristocrat",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Estranged Aristocrat.png"
+			}
+		},
+		{
+			"name": "Gubernatorial Fundraiser",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gubernatorial Fundraiser.png"
+			}
+		},
+		{
+			"name": "Kage's Slayer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kage's Slayer.png"
+			}
+		},
+		{
+			"name": "Kirin of Boons",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Kirin Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kirin of Boons.png"
+			}
+		},
+		{
+			"name": "Pensive Caldera",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Pensive Caldera.png"
+			}
+		},
+		{
+			"name": "Satyr Arsonist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Satyr Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Satyr Arsonist.png"
+			}
+		},
+		{
+			"name": "Savvy Smith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Savvy Smith.png"
+			}
+		},
+		{
+			"name": "Skophos Raid-Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Skophos Raid-Veteran.png"
+			}
+		},
+		{
+			"name": "Temperamental Chick",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Temperamental Chick.png"
+			}
+		},
+		{
+			"name": "Audacious Roughrider",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Audacious Roughrider.png"
+			}
+		},
+		{
+			"name": "Fabricated Anomaly",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Fabricated Anomaly.png"
+			}
+		},
+		{
+			"name": "Lightning Warmonger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lightning Warmonger.png"
+			}
+		},
+		{
+			"name": "Wildfang Cavalier",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Wildfang Cavalier.png"
+			}
+		},
+		{
+			"name": "Apprentice of the Forge-God",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Giant Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Apprentice of the Forge-God.png"
+			}
+		},
+		{
+			"name": "Ardor, Forefront of Freedom",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ardor, Forefront of Freedom.png"
+			}
+		},
+		{
+			"name": "Generator Alpha",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Dog ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Generator Alpha.png"
+			}
+		},
+		{
+			"name": "Eviviva, Grip Exec",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}{R}{R}",
+			"type": "Legendary Creature — Human Bard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Eviviva, Grip Exec.png"
+			}
+		},
+		{
+			"name": "Chainbreaker's Familiar",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chainbreaker's Familiar.png"
+			}
+		},
+		{
+			"name": "Threadripper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Jackal Warlock ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Threadripper.png"
+			}
+		},
+		{
+			"name": "Wisping Kirin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Kirin Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Wisping Kirin.png"
+			}
+		},
+		{
+			"name": "Molten Slagmaw",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Molten Slagmaw.png"
+			}
+		},
+		{
+			"name": "Darisha, Stack Exec",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Darisha, Stack Exec.png"
+			}
+		},
+		{
+			"name": "Opal-Eye Caretaker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Opal-Eye Caretaker.png"
+			}
+		},
+		{
+			"name": "Architect of the Intangible",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Architect of the Intangible.png"
+			}
+		},
+		{
+			"name": "Spore Collector",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fungus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spore Collector.png"
+			}
+		},
+		{
+			"name": "Firebolt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Firebolt.png"
+			}
+		},
+		{
+			"name": "Igneous Visions",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Igneous Visions.png"
+			}
+		},
+		{
+			"name": "Leystone of Storms",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Legendary Enchantment Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Leystone of Storms.png"
+			}
+		},
+		{
+			"name": "Magma Flow",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Magma Flow.png"
+			}
+		},
+		{
+			"name": "Momentous Charge",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Momentous Charge.png"
+			}
+		},
+		{
+			"name": "Punishment from Nyx",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Punishment from Nyx.png"
+			}
+		},
+		{
+			"name": "Terminal Impact",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Terminal Impact.png"
+			}
+		},
+		{
+			"name": "Bleeding Out",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Bleeding Out.png"
+			}
+		},
+		{
+			"name": "Conscript",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Conscript.png"
+			}
+		},
+		{
+			"name": "Flags on High",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Flags on High.png"
+			}
+		},
+		{
+			"name": "Flame Whip",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Flame Whip.png"
+			}
+		},
+		{
+			"name": "Frag",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Frag.png"
+			}
+		},
+		{
+			"name": "Hell's Boon",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hell's Boon.png"
+			}
+		},
+		{
+			"name": "Ignite",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ignite.png"
+			}
+		},
+		{
+			"name": "Set Ablaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Set Ablaze.png"
+			}
+		},
+		{
+			"name": "Shigane Manor Burns",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Shigane Manor Burns.png"
+			}
+		},
+		{
+			"name": "Spiteful Banditry",
+			"rarity": "common",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spiteful Banditry.png"
+			}
+		},
+		{
+			"name": "Chronicle of Armageddon",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chronicle of Armageddon.png"
+			}
+		},
+		{
+			"name": "Crumbling Tower",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Crumbling Tower.png"
+			}
+		},
+		{
+			"name": "Elektes's Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Elektes's Charge.png"
+			}
+		},
+		{
+			"name": "Gericho, Ageless Wanderer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Gericho ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gericho, Ageless Wanderer.png"
+			}
+		},
+		{
+			"name": "High Voltage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/High Voltage.png"
+			}
+		},
+		{
+			"name": "Karda's Legacy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Karda's Legacy.png"
+			}
+		},
+		{
+			"name": "The Burning of Pidae",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Burning of Pidae.png"
+			}
+		},
+		{
+			"name": "Koios, Spear of Karda",
+			"rarity": "common",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment Planeswalker — Koios ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Koios, Spear of Karda.png"
+			}
+		},
+		{
+			"name": "PANIC()",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/PANIC().png"
+			}
+		},
+		{
+			"name": "Audience at Zakros",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Audience at Zakros.png"
+			}
+		},
+		{
+			"name": "Competitive Hedonist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Competitive Hedonist.png"
+			}
+		},
+		{
+			"name": "Collector's Item",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Collector's Item.png"
+			}
+		},
+		{
+			"name": "Siflir, Elder Pawn",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Siflir, Elder Pawn.png"
+			}
+		},
+		{
+			"name": "Brass Oracle",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Brass Oracle.png"
+			}
+		},
+		{
+			"name": "Festered Effluvium",
+			"rarity": "common",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Festered Effluvium.png"
+			}
+		},
+		{
+			"name": "Orochi Soulfang",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit Snake ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Orochi Soulfang.png"
+			}
+		},
+		{
+			"name": "Seeker of New Horizons",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Satyr Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Seeker of New Horizons.png"
+			}
+		},
+		{
+			"name": "Mystery Egg",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Egg ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mystery Egg.png"
+			}
+		},
+		{
+			"name": "Aethersteel Pouncer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Cat Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aethersteel Pouncer.png"
+			}
+		},
+		{
+			"name": "Aspiring Anarchist",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Crocodile Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aspiring Anarchist.png"
+			}
+		},
+		{
+			"name": "Concurrent Escapist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Concurrent Escapist.png"
+			}
+		},
+		{
+			"name": "Growing Gecko",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Plant Lizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Growing Gecko.png"
+			}
+		},
+		{
+			"name": "Masksmith",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Masksmith.png"
+			}
+		},
+		{
+			"name": "Megafauna Knight",
+			"rarity": "common",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Dragon Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Megafauna Knight.png"
+			}
+		},
+		{
+			"name": "Menelaia, Beloved Lyrist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Menelaia, Beloved Lyrist.png"
+			}
+		},
+		{
+			"name": "Morbid Bloomer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Morbid Bloomer.png"
+			}
+		},
+		{
+			"name": "Star-Studded Sagittaur",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Centaur Archer  ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Star-Studded Sagittaur.png"
+			}
+		},
+		{
+			"name": "Uncoiling Realmspawn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit Hydra ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Uncoiling Realmspawn.png"
+			}
+		},
+		{
+			"name": "Alrantan Visionary",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Alrantan Visionary.png"
+			}
+		},
+		{
+			"name": "Brutal Throatcrusher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Brutal Throatcrusher.png"
+			}
+		},
+		{
+			"name": "Grassroots Campaigners",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Grassroots Campaigners.png"
+			}
+		},
+		{
+			"name": "Hearty Roughrider",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hearty Roughrider.png"
+			}
+		},
+		{
+			"name": "Skittertiller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Insect Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Skittertiller.png"
+			}
+		},
+		{
+			"name": "Ozanwood Huntsman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ozanwood Huntsman.png"
+			}
+		},
+		{
+			"name": "Skola Nyxweaver",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Satyr Soldier Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Skola Nyxweaver.png"
+			}
+		},
+		{
+			"name": "Unflinching Titan",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Unflinching Titan.png"
+			}
+		},
+		{
+			"name": "Battlehymn Howler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Battlehymn Howler.png"
+			}
+		},
+		{
+			"name": "Imperfect Fugisaur",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Imperfect Fugisaur.png"
+			}
+		},
+		{
+			"name": "Jens Slopeskidder",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Jens Slopeskidder.png"
+			}
+		},
+		{
+			"name": "Nessian Scout-Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Minotaur Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nessian Scout-Captain.png"
+			}
+		},
+		{
+			"name": "Realmweft Kitsune",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fox Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Realmweft Kitsune.png"
+			}
+		},
+		{
+			"name": "Ribbon Dancer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ribbon Dancer.png"
+			}
+		},
+		{
+			"name": "Ageless Seishin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Creature — Spirit Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ageless Seishin.png"
+			}
+		},
+		{
+			"name": "Parental Pair",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Parental Pair.png"
+			}
+		},
+		{
+			"name": "Realm Violator",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Serpent Insect  ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Realm Violator.png"
+			}
+		},
+		{
+			"name": "Resource_Inversion",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Legendary Creature — Error ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Resource_Inversion.png"
+			}
+		},
+		{
+			"name": "Scourge of Capitalism",
+			"rarity": "common",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Giant Insect Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Scourge of Capitalism.png"
+			}
+		},
+		{
+			"name": "A Journey Begins",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/A Journey Begins.png"
+			}
+		},
+		{
+			"name": "Momentous Strike",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Momentous Strike.png"
+			}
+		},
+		{
+			"name": "Slumbering Grove",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Ruin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Slumbering Grove.png"
+			}
+		},
+		{
+			"name": "Ancestor's Guidance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ancestor's Guidance.png"
+			}
+		},
+		{
+			"name": "Clear Skies",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Weather ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Clear Skies.png"
+			}
+		},
+		{
+			"name": "Realmweft Implosion",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Realmweft Implosion.png"
+			}
+		},
+		{
+			"name": "Winding Way",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Winding Way.png"
+			}
+		},
+		{
+			"name": "Bulk Bioengineering",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Bulk Bioengineering.png"
+			}
+		},
+		{
+			"name": "Digital Reliquary",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Digital Reliquary.png"
+			}
+		},
+		{
+			"name": "GENERATE()",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/GENERATE().png"
+			}
+		},
+		{
+			"name": "Mapper's Wanderings",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mapper's Wanderings.png"
+			}
+		},
+		{
+			"name": "Ozan's Blessing",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ozan's Blessing.png"
+			}
+		},
+		{
+			"name": "Portal to the Spirit Realm",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Portal to the Spirit Realm.png"
+			}
+		},
+		{
+			"name": "Rebuilding of Londel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Rebuilding of Londel.png"
+			}
+		},
+		{
+			"name": "Sustainable Investments",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sustainable Investments.png"
+			}
+		},
+		{
+			"name": "Thunderous Avalanche",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Thunderous Avalanche.png"
+			}
+		},
+		{
+			"name": "Cartographer's Skill",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Cartographer's Skill.png"
+			}
+		},
+		{
+			"name": "Awakening in Oldun",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Awakening in Oldun.png"
+			}
+		},
+		{
+			"name": "Chronicle of Awakening",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chronicle of Awakening.png"
+			}
+		},
+		{
+			"name": "Grow Over",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Grow Over.png"
+			}
+		},
+		{
+			"name": "International Development",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/International Development.png"
+			}
+		},
+		{
+			"name": "Disestablishmentarianism",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Disestablishmentarianism.png"
+			}
+		},
+		{
+			"name": "Hostile Evolution",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hostile Evolution.png"
+			}
+		},
+		{
+			"name": "Grasp of the Yeti",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Grasp of the Yeti.png"
+			}
+		},
+		{
+			"name": "SEEK()",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/SEEK().png"
+			}
+		},
+		{
+			"name": "Vasilisa, Helping Hand",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Vasilisa  ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Helping Hand_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Helping Hand_back.png"
+				}
+			}
+		},
+		{
+			"name": "Aether Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Monk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aether Dancer.png"
+			}
+		},
+		{
+			"name": "Ephara's Judgment",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ephara's Judgment.png"
+			}
+		},
+		{
+			"name": "Nimomae, Who Flows",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Human Monk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nimomae, Who Flows.png"
+			}
+		},
+		{
+			"name": "Seal Shoals",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Seal Shoals.png"
+			}
+		},
+		{
+			"name": "Squallrunner Duo",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Soldier Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Squallrunner Duo.png"
+			}
+		},
+		{
+			"name": "Defect",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Defect.png"
+			}
+		},
+		{
+			"name": "Scrapyard Mecha",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Scrapyard Mecha.png"
+			}
+		},
+		{
+			"name": "Weft Dancer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Spirit Warlock Bard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Weft Dancer.png"
+			}
+		},
+		{
+			"name": "Identity Forger",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Shapeshifter Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Identity Forger.png"
+			}
+		},
+		{
+			"name": "Blind Keelah",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Fish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Blind Keelah.png"
+			}
+		},
+		{
+			"name": "Garren, Returned Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Garren ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Garren, Returned Prophet.png"
+			}
+		},
+		{
+			"name": "Godslaughter Titan",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Demon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Godslaughter Titan.png"
+			}
+		},
+		{
+			"name": "Mogis, Rage-Crowned",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mogis, Rage-Crowned.png"
+			}
+		},
+		{
+			"name": "Scattering Swine",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Boar Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Scattering Swine.png"
+			}
+		},
+		{
+			"name": "Creation's Combustion",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Creation's Combustion.png"
+			}
+		},
+		{
+			"name": "Abominable Avalanche",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Abominable Avalanche.png"
+			}
+		},
+		{
+			"name": "Foreign Encounter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Foreign Encounter.png"
+			}
+		},
+		{
+			"name": "Spikemane Lion",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spikemane Lion.png"
+			}
+		},
+		{
+			"name": "Xeia, Record Chaser",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Xeia, Record Chaser.png"
+			}
+		},
+		{
+			"name": "Indomitable Jicru",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Indomitable Jicru.png"
+			}
+		},
+		{
+			"name": "Survivors of the New World",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Mutant Survivor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Survivors of the New World.png"
+			}
+		},
+		{
+			"name": "Warden of Skies",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}{W}",
+			"type": "Legendary Creature — Dragon Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Warden of Skies.png"
+			}
+		},
+		{
+			"name": "Axiomatic Shift",
+			"rarity": "common",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Axiomatic Shift.png"
+			}
+		},
+		{
+			"name": "Empowered Revisionary",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Empowered Revisionary.png"
+			}
+		},
+		{
+			"name": "Alcadia, Cardinal Judge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Alcadia, Cardinal Judge.png"
+			}
+		},
+		{
+			"name": "Archon of Condemnation",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Archon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Archon of Condemnation.png"
+			}
+		},
+		{
+			"name": "Banisher Rifle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Banisher Rifle.png"
+			}
+		},
+		{
+			"name": "Warden of Wishes",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Faerie Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Warden of Wishes.png"
+			}
+		},
+		{
+			"name": "Sanaito, Voidsinger",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Sanaito ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Sanaito, Voidsinger.png"
+			}
+		},
+		{
+			"name": "Skotha, Titan of Eternal Dark",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Elder Giant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Skotha, Titan of Eternal Dark.png"
+			}
+		},
+		{
+			"name": "Xarr of the Eternal Cycle",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Xarr ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Xarr of the Eternal Cycle.png"
+			}
+		},
+		{
+			"name": "Embrace the Cycle",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Embrace the Cycle.png"
+			}
+		},
+		{
+			"name": "Jack, Monster Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Jack ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Jack, Monster Mentor.png"
+			}
+		},
+		{
+			"name": "Aonuma, Princely Traveler",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Avatar Ninja ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Aonuma, Princely Traveler.png"
+			}
+		},
+		{
+			"name": "Gemi and Nu, Cachemates",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Dog Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gemi and Nu, Cachemates.png"
+			}
+		},
+		{
+			"name": "Kruphix, Far-Seeing",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Enchantment Creature — God ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kruphix, Far-Seeing.png"
+			}
+		},
+		{
+			"name": "Ruin, the First Shard",
+			"rarity": "common",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ruin, the First Shard.png"
+			}
+		},
+		{
+			"name": "Simul, Genetic Artisan",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Planeswalker — Simul ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Simul, Genetic Artisan.png"
+			}
+		},
+		{
+			"name": "Keranos, Fickle-Fortuned",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Keranos, Fickle-Fortuned.png"
+			}
+		},
+		{
+			"name": "Olis Mars, Final Archivist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Olis Mars, Final Archivist.png"
+			}
+		},
+		{
+			"name": "Phlage, Titan of Burning Wind",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Elder Giant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Phlage, Titan of Burning Wind.png"
+			}
+		},
+		{
+			"name": "Get Your Wish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Get Your Wish.png"
+			}
+		},
+		{
+			"name": "Keranos's Judgment",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Keranos's Judgment.png"
+			}
+		},
+		{
+			"name": "Elektes, First King of Akros",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Elektes, First King of Akros.png"
+			}
+		},
+		{
+			"name": "Iroas's Judgment",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Iroas's Judgment.png"
+			}
+		},
+		{
+			"name": "Lead and Follow",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lead and Follow.png"
+			}
+		},
+		{
+			"name": "Nikon, Skophos Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Minotaur Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nikon, Skophos Protector.png"
+			}
+		},
+		{
+			"name": "Toki, Celebrity Soldier",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Toki, Celebrity Soldier.png"
+			}
+		},
+		{
+			"name": "Severin, Sparkmind",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Severin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Severin, Sparkmind.png"
+			}
+		},
+		{
+			"name": "The Connaistone",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Connaistone.png"
+			}
+		},
+		{
+			"name": "Whirring Inspector",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Insect Eye ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Whirring Inspector.png"
+			}
+		},
+		{
+			"name": "Ayeshi, Time's Jailer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Ayeshi ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ayeshi, Time's Jailer.png"
+			}
+		},
+		{
+			"name": "Extraction Mission",
+			"rarity": "common",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Extraction Mission.png"
+			}
+		},
+		{
+			"name": "Assault Engine",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Assault Engine.png"
+			}
+		},
+		{
+			"name": "Adaptive Hydra",
+			"rarity": "common",
+			"mana_cost": "{X}{B}{R}{G}",
+			"type": "Artifact Creature — Hydra ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Adaptive Hydra.png"
+			}
+		},
+		{
+			"name": "Chief Executive Dhante",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chief Executive Dhante.png"
+			}
+		},
+		{
+			"name": "Penrath Dispatcher",
+			"rarity": "common",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Penrath Dispatcher.png"
+			}
+		},
+		{
+			"name": "Storm the Senate",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{G}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Storm the Senate.png"
+			}
+		},
+		{
+			"name": "Omenhorn",
+			"rarity": "common",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Creature — Elk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omenhorn.png"
+			}
+		},
+		{
+			"name": "The Berry Master",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Druid ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Berry Master.png"
+			}
+		},
+		{
+			"name": "Leyspark Wielder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Human Warrior Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Leyspark Wielder.png"
+			}
+		},
+		{
+			"name": "Echocrafter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Echocrafter.png"
+			}
+		},
+		{
+			"name": "Echo Choreographer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Bard Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Echo Choreographer.png"
+			}
+		},
+		{
+			"name": "Root Fossil",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Root Fossil.png"
+			}
+		},
+		{
+			"name": "Hungry Blob",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ooze ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Hungry Blob.png"
+			}
+		},
+		{
+			"name": "Yingjun's Presence",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Yingjun's Presence.png"
+			}
+		},
+		{
+			"name": "Ignited Soul",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ignited Soul.png"
+			}
+		},
+		{
+			"name": "Majesty",
+			"rarity": "common",
+			"mana_cost": "{R}{R/G}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Majesty.png"
+			}
+		},
+		{
+			"name": "Ragtag Squad",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ragtag Squad.png"
+			}
+		},
+		{
+			"name": "Bind Life to Steel",
+			"rarity": "common",
+			"mana_cost": "{X}{W/B}{W/B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Bind Life to Steel.png"
+			}
+		},
+		{
+			"name": "Ikurimoko's Presence",
+			"rarity": "common",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ikurimoko's Presence.png"
+			}
+		},
+		{
+			"name": "Archaic Obelisk",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Archaic Obelisk.png"
+			}
+		},
+		{
+			"name": "Geometry Stabilizer",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Geometry Stabilizer.png"
+			}
+		},
+		{
+			"name": "Helen's Failsafe",
+			"rarity": "common",
+			"mana_cost": "{9}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Helen's Failsafe.png"
+			}
+		},
+		{
+			"name": "Helm of the Shattered Realm",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Helm of the Shattered Realm.png"
+			}
+		},
+		{
+			"name": "Implacable Shrine-Guard",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Sculpture ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Implacable Shrine-Guard.png"
+			}
+		},
+		{
+			"name": "Leyshard",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Leyshard.png"
+			}
+		},
+		{
+			"name": "Magnetling",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Magnetling.png"
+			}
+		},
+		{
+			"name": "Moonlit Gateway",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Moonlit Gateway.png"
+			}
+		},
+		{
+			"name": "Nerul, Blade of the Ancients",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Ruin Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Nerul, Blade of the Ancients.png"
+			}
+		},
+		{
+			"name": "Plasma Armory",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Plasma Armory.png"
+			}
+		},
+		{
+			"name": "Protean Golem",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Protean Golem.png"
+			}
+		},
+		{
+			"name": "The Shattered Throne",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Shattered Throne.png"
+			}
+		},
+		{
+			"name": "Reactor Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reactor Sphere.png"
+			}
+		},
+		{
+			"name": "Reactor Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reactor Sphere.png"
+			}
+		},
+		{
+			"name": "The Smoking Strand",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Smoking Strand.png"
+			}
+		},
+		{
+			"name": "Soul-Guide Lantern",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Soul-Guide Lantern.png"
+			}
+		},
+		{
+			"name": "Spirit Realm Medallion",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spirit Realm Medallion.png"
+			}
+		},
+		{
+			"name": "Takashi, City on the Wind",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Takashi, City on the Wind.png"
+			}
+		},
+		{
+			"name": "Totemic Guidestones",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Totemic Guidestones.png"
+			}
+		},
+		{
+			"name": "Warpway Rings",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Warpway Rings.png"
+			}
+		},
+		{
+			"name": "MAP()",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Enchantment — Subroutine ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/MAP().png"
+			}
+		},
+		{
+			"name": "Colossus of Trax",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Colossus of Trax.png"
+			}
+		},
+		{
+			"name": "Blade of Clouded Pasts",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Blade of Clouded Pasts.png"
+			}
+		},
+		{
+			"name": "Archival Storage",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Archival Storage.png"
+			}
+		},
+		{
+			"name": "Weather Elemental",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Weather Elemental.png"
+			}
+		},
+		{
+			"name": "Biaas the Poison Drinker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Biaas the Poison Drinker.png"
+			}
+		},
+		{
+			"name": "Parse",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Parse.png"
+			}
+		},
+		{
+			"name": "Electronic Countermeasures",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Electronic Countermeasures.png"
+			}
+		},
+		{
+			"name": "Willing Acolyte",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Willing Acolyte.png"
+			}
+		},
+		]
+	[WildcardSlot(15)]
+	10 Clearwater Grotto
+	10 Enigmatic Fen
+	10 Lucent Basin
+	10 Misty Peak
+	10 Profane Grove
+	10 Sanguine Palace
+	10 Stark Expanse
+	10 Urban Jungle
+	10 Verdant Sanctum
+	10 Windbeaten Stones
+	10 Desolate Path
+	10 Distant Path
+	10 Erosive Path
+	10 Forlorn Path
+	10 Meandering Path
+	10 Murky Path
+	10 Rousing Path
+	10 Sodden Path
+	10 Thicketed Path
+	10 Torrid Path
+	10 Hazakh District
+	10 Penrath District
+	10 Sillaman District
+	10 Tiril District
+	10 Vishanki District
+	10 Barren Ashlands
+	10 Buried Colossus
+	10 Ephemeral Mire
+	10 Gates to the Underworld
+	10 Hundred-Handed Pillars
+	10 Miasmic Cove
+	10 Nessian Woods
+	10 Nimbus of Thought
+	10 Shell Cove
+	10 Titan's Stairs
+	10 Ardent Rise
+	10 Faulty Server
+	10 Forgotten Junkyard
+	10 Glittering Club
+	10 Isolated Tower
+	10 Lost and Found
+	10 Meteoric Facade
+	10 Regrowing Outlands
+	10 Reified Borough
+	10 Silent Lakefront
+	10 Primal Fissure
+	10 Protean Boughs
+	10 Redeveloped Cityscape
+	10 Steadfast Gatekeepers
+	10 Temple of Origins
+	10 Timeworn Crags
+	10 Estrathe, Center of Civilization
+	10 Mirage Island
+	10 Sky Pillar
+	10 Gate to Fujinobe
+	10 Claes, Shield of Karda
+	10 Danuja, Emperor's Pet
+	10 Kitsune Matriarch
+	10 Mellan, Defense Attorney
+	10 Nomad's Companion
+	10 Ofuda Mistress
+	10 Voice of Utopia
+	10 Contest Coordinator
+	10 Genotype Splicer
+	10 Highland Guide
+	10 Illusory Savior
+	10 Lost Resistor
+	10 Prince of the Pride
+	10 Screeching Grauku
+	10 Sculptor's Replica
+	10 Smart Shopper
+	10 Sunbeam Alseid
+	10 Weave Dispatcher
+	10 Alrantan Archon
+	10 Basilo, Lion of Valor
+	10 Containment Seraph
+	10 Elder Tattooist
+	10 Iara, Blessed-Hart
+	10 Looming Cyhawk
+	10 Renowned Roughrider
+	10 Yokinzan General
+	10 Ayeshi's Agent
+	10 Bringer of Heliod's Light
+	10 Chosen of Heliod
+	10 Imperious Admin
+	10 Mobilization Technician
+	10 Dragon of Recollection
+	10 Agnomakhos, Justice
+	10 General Diadem, Usurper
+	10 Archon of the Legion
+	10 The Army of Trax
+	10 Plasma Strike
+	10 Imperial Tour
+	10 Omen of Victory
+	10 Seal Away
+	10 Swift Reproach
+	10 The Ruins Awaken
+	10 Futurist Ideal
+	10 Gone Pickin'
+	10 RETURN()
+	10 The Fall of Trax
+	10 Cassia the Carefree
+	10 Chronicle of Bequeathal
+	10 EXIT()
+	10 Remnant of Valor
+	10 Chromatic Rift
+	10 Revolt at the Palace
+	10 The Dutiful Wanderer
+	10 Welkin Eviction
+	10 Illustrious Sheng Fa
+	10 Tyranny of Trax
+	10 Auspicious Return
+	10 Charming Siren
+	10 Demographer
+	10 Sleeper Strix
+	10 Tireless Aspirants
+	10 Agent of Deception
+	10 Daring Shinobi
+	10 Haubay's Familiar
+	10 Unspeaking Titan
+	10 Whitecliff Pilgrim
+	10 Battle Physicist
+	10 Callisto, the Teqiarch
+	10 Covetous Frostwyrm
+	10 Twilight Agent
+	10 Trinity of Fates
+	10 Mnemologist
+	10 Opal-Eye Allseer
+	10 Preemption Daemon
+	10 Threadweaver Shinobi
+	10 Eidolon of Graceful Steps
+	10 Convol, Archive Exec
+	10 Jetstream Cruiser
+	10 King of Shallow Shores
+	10 Stormscraper of Ketaphos
+	10 Oracle of Zakros
+	10 Behemoth of the Five Rivers
+	10 Cybersaurus
+	10 Raboorah Goliath
+	10 Underflow_Error
+	10 Ebb and Flow
+	10 Industrialize
+	10 Thassa's Caress
+	10 Deft Deflection
+	10 Negate
+	10 Omen of Deception
+	10 Ominous Seas
+	10 Research Grant
+	10 Sink into Obscurity
+	10 Avatar's Whim
+	10 Chronicle of Precedence
+	10 Divine Mishap
+	10 Marilye, Dreaming Big
+	10 Siphon Energy
+	10 The Founding of the Twelve
+	10 Callisto's Confiscation
+	10 Rain Dance
+	10 Elder Eras
+	10 Grasp of the Elements
+	10 The Sinking of Olantin
+	10 The World Stood Still
+	10 The Arbiter
+	10 Leystone of Depths
+	10 Pass Judgment
+	10 Voyage to the Siren Sea
+	10 Seafloor Treasures
+	10 Scour All Possibilities
+	10 Gaze Upon Civilization
+	10 Aphonai's Reveler
+	10 Rooftop Slink
+	10 Capital Skyraiders
+	10 Omen Skulker
+	10 Catabolist
+	10 Exorcist of Errors
+	10 Fallen Heartseeker
+	10 Inklight Dancer
+	10 Keeper of the Scale
+	10 Lurking Vyrkolakas
+	10 Replicrawler
+	10 Smiling Sludge
+	10 Barbarous Roughrider
+	10 Chrolcatos, Pidae's Founder
+	10 Data Weaver
+	10 Corrupt Congressman
+	10 Kage's Mercenary
+	10 Merciless Headsman
+	10 The Venerable Veteran
+	10 Merciless Ruiner
+	10 Spiteful Griefer
+	10 Inner Ring's Pupil
+	10 Judge, Jury, and Executioner
+	10 Lifehacker
+	10 Slighos the Body-Binder
+	10 Kimja Deadeye
+	10 Phyto's Offshoot
+	10 Askir, the Defiler
+	10 Gray Merchant of Asphodel
+	10 Malicious Skycleaver
+	10 General of the Damned
+	10 Furies of the Natural Order
+	10 Absentia
+	10 Downlink Overload
+	10 Duress
+	10 Phenax's Touch
+	10 Agonizing Remorse
+	10 Aspect of the End
+	10 Deadly Dispute
+	10 Dissect Intel
+	10 Drag into the Dark
+	10 Forced Shutdown
+	10 Hang
+	10 Hostage Situation
+	10 Maim
+	10 Omen of Slaughter
+	10 Stained Strokes
+	10 Failed Gateway
+	10 Out with the Old
+	10 Serve Again
+	10 The Path of Phenax
+	10 Chronicle of Extinction
+	10 Conqueror's Glee
+	10 Noxious Conditions
+	10 Damn to Hell
+	10 Reboot
+	10 The Inferno Gate Opens
+	10 Calamity Cat
+	10 Hero in the Making
+	10 Impulsive Underling
+	10 Jorgen, Martyr of the Rathomar
+	10 Newborn Oni
+	10 Red-Hot Rider
+	10 Arid Outrider
+	10 Eidolon of Empty Thoughts
+	10 Ragecloak Shifter
+	10 Cache Thrasher
+	10 Estranged Aristocrat
+	10 Gubernatorial Fundraiser
+	10 Kage's Slayer
+	10 Kirin of Boons
+	10 Pensive Caldera
+	10 Satyr Arsonist
+	10 Savvy Smith
+	10 Skophos Raid-Veteran
+	10 Temperamental Chick
+	10 Audacious Roughrider
+	10 Fabricated Anomaly
+	10 Lightning Warmonger
+	10 Wildfang Cavalier
+	10 Apprentice of the Forge-God
+	10 Ardor, Forefront of Freedom
+	10 Generator Alpha
+	10 Eviviva, Grip Exec
+	10 Chainbreaker's Familiar
+	10 Threadripper
+	10 Wisping Kirin
+	10 Molten Slagmaw
+	10 Darisha, Stack Exec
+	10 Opal-Eye Caretaker
+	10 Architect of the Intangible
+	10 Spore Collector
+	10 Firebolt
+	10 Igneous Visions
+	10 Leystone of Storms
+	10 Magma Flow
+	10 Momentous Charge
+	10 Punishment from Nyx
+	10 Terminal Impact
+	10 Bleeding Out
+	10 Conscript
+	10 Flags on High
+	10 Flame Whip
+	10 Frag
+	10 Hell's Boon
+	10 Ignite
+	10 Set Ablaze
+	10 Shigane Manor Burns
+	10 Spiteful Banditry
+	10 Chronicle of Armageddon
+	10 Crumbling Tower
+	10 Elektes's Charge
+	10 Gericho, Ageless Wanderer
+	10 High Voltage
+	10 Karda's Legacy
+	10 The Burning of Pidae
+	10 Koios, Spear of Karda
+	10 PANIC()
+	10 Audience at Zakros
+	10 Competitive Hedonist
+	10 Collector's Item
+	10 Siflir, Elder Pawn
+	10 Brass Oracle
+	10 Festered Effluvium
+	10 Orochi Soulfang
+	10 Seeker of New Horizons
+	10 Mystery Egg
+	10 Aethersteel Pouncer
+	10 Aspiring Anarchist
+	10 Concurrent Escapist
+	10 Growing Gecko
+	10 Masksmith
+	10 Megafauna Knight
+	10 Menelaia, Beloved Lyrist
+	10 Morbid Bloomer
+	10 Star-Studded Sagittaur
+	10 Uncoiling Realmspawn
+	10 Alrantan Visionary
+	10 Brutal Throatcrusher
+	10 Grassroots Campaigners
+	10 Hearty Roughrider
+	10 Skittertiller
+	10 Ozanwood Huntsman
+	10 Skola Nyxweaver
+	10 Unflinching Titan
+	10 Battlehymn Howler
+	10 Imperfect Fugisaur
+	10 Jens Slopeskidder
+	10 Nessian Scout-Captain
+	10 Realmweft Kitsune
+	10 Ribbon Dancer
+	10 Ageless Seishin
+	10 Parental Pair
+	10 Realm Violator
+	10 Resource_Inversion
+	10 Scourge of Capitalism
+	10 A Journey Begins
+	10 Momentous Strike
+	10 Slumbering Grove
+	10 Ancestor's Guidance
+	10 Clear Skies
+	10 Realmweft Implosion
+	10 Winding Way
+	10 Bulk Bioengineering
+	10 Digital Reliquary
+	10 GENERATE()
+	10 Mapper's Wanderings
+	10 Ozan's Blessing
+	10 Portal to the Spirit Realm
+	10 Rebuilding of Londel
+	10 Sustainable Investments
+	10 Thunderous Avalanche
+	10 Cartographer's Skill
+	10 Awakening in Oldun
+	10 Chronicle of Awakening
+	10 Grow Over
+	10 International Development
+	10 Disestablishmentarianism
+	10 Hostile Evolution
+	10 Grasp of the Yeti
+	10 SEEK()
+	10 Vasilisa, Helping Hand
+	10 Aether Dancer
+	10 Ephara's Judgment
+	10 Nimomae, Who Flows
+	10 Seal Shoals
+	10 Squallrunner Duo
+	10 Defect
+	10 Scrapyard Mecha
+	10 Weft Dancer
+	10 Identity Forger
+	10 Blind Keelah
+	10 Garren, Returned Prophet
+	10 Godslaughter Titan
+	10 Mogis, Rage-Crowned
+	10 Scattering Swine
+	10 Creation's Combustion
+	10 Abominable Avalanche
+	10 Foreign Encounter
+	10 Spikemane Lion
+	10 Xeia, Record Chaser
+	10 Indomitable Jicru
+	10 Survivors of the New World
+	10 Warden of Skies
+	10 Axiomatic Shift
+	10 Empowered Revisionary
+	10 Alcadia, Cardinal Judge
+	10 Archon of Condemnation
+	10 Banisher Rifle
+	10 Warden of Wishes
+	10 Sanaito, Voidsinger
+	10 Skotha, Titan of Eternal Dark
+	10 Xarr of the Eternal Cycle
+	10 Embrace the Cycle
+	10 Jack, Monster Mentor
+	10 Aonuma, Princely Traveler
+	10 Gemi and Nu, Cachemates
+	10 Kruphix, Far-Seeing
+	10 Ruin, the First Shard
+	10 Simul, Genetic Artisan
+	10 Keranos, Fickle-Fortuned
+	10 Olis Mars, Final Archivist
+	10 Phlage, Titan of Burning Wind
+	10 Get Your Wish
+	10 Keranos's Judgment
+	10 Elektes, First King of Akros
+	10 Iroas's Judgment
+	10 Lead and Follow
+	10 Nikon, Skophos Protector
+	10 Toki, Celebrity Soldier
+	10 Severin, Sparkmind
+	10 The Connaistone
+	10 Whirring Inspector
+	10 Ayeshi, Time's Jailer
+	10 Extraction Mission
+	10 Assault Engine
+	10 Adaptive Hydra
+	10 Chief Executive Dhante
+	10 Penrath Dispatcher
+	10 Storm the Senate
+	10 Omenhorn
+	10 The Berry Master
+	10 Leyspark Wielder
+	10 Echocrafter
+	10 Echo Choreographer
+	10 Root Fossil
+	10 Hungry Blob
+	10 Yingjun's Presence
+	10 Ignited Soul
+	10 Majesty
+	10 Ragtag Squad
+	10 Bind Life to Steel
+	10 Ikurimoko's Presence
+	10 Archaic Obelisk
+	10 Geometry Stabilizer
+	10 Helen's Failsafe
+	10 Helm of the Shattered Realm
+	10 Implacable Shrine-Guard
+	10 Leyshard
+	10 Magnetling
+	10 Moonlit Gateway
+	10 Nerul, Blade of the Ancients
+	10 Plasma Armory
+	10 Protean Golem
+	10 The Shattered Throne
+	10 Reactor Sphere
+	10 Reactor Sphere
+	10 The Smoking Strand
+	10 Soul-Guide Lantern
+	10 Spirit Realm Medallion
+	10 Takashi, City on the Wind
+	10 Totemic Guidestones
+	10 Warpway Rings
+	10 MAP()
+	10 Colossus of Trax
+	10 Blade of Clouded Pasts
+	10 Archival Storage
+	10 Weather Elemental
+	10 Biaas the Poison Drinker
+	10 Parse
+	10 Electronic Countermeasures
+	10 Willing Acolyte
+	
