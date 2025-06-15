@@ -786,7 +786,7 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Heliod's Glory.png"
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Heliods Glory.png"
 				}
 			}
 		},
@@ -3259,13 +3259,6 @@
 				"image_uris": {
 					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa Waging War.png"
 				}
-			},
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Waging War.png"
-				}
 			}
 		},
 		{
@@ -4644,4 +4637,5 @@
 	1 Parse
 	1 Electronic Countermeasures
 	1 Willing Acolyte
+	1 Reclaiming Ritual
 	
