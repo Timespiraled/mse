@@ -535,6 +535,13 @@
 			"type": "Legendary Creature — Human Advisor ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Mellan, Defense Attorney.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -1065,6 +1072,13 @@
 			"type": "Creature — Human Advisor ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Demographer.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -1716,6 +1730,13 @@
 			"type": "Creature — Human Advisor ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Corrupt Congressman.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -2198,6 +2219,13 @@
 			"type": "Creature — Elf Noble ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Estranged Aristocrat.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -2207,6 +2235,13 @@
 			"type": "Creature — Human Advisor ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Gubernatorial Fundraiser.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -2874,6 +2909,13 @@
 			"type": "Creature — Human Advisor ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Grassroots Campaigners.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
@@ -3207,6 +3249,13 @@
 			"type": "Enchantment — Aura ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/International Development.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/CliqueReminder.png"
+				}
 			}
 		},
 		{
