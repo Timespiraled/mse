@@ -4236,6 +4236,24 @@
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Willing Acolyte.png"
 			}
 		},
+		{
+			"name": "Estrathian Gentrifiers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Estrathian Gentrifiers.png"
+			}
+		},
+		{
+			"name": "Spikey, Jack’s Gravetiller",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Plant Horror",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spikey Jacks Tiller.png"
+			}
+		},
 		]
 	[WildcardSlot(15)]
 	1 Clearwater Grotto
@@ -4603,7 +4621,6 @@
 	1 Scattering Swine
 	1 Creation's Combustion
 	1 Abominable Avalanche
-	1 Foreign Encounter
 	1 Spikemane Lion
 	1 Xeia, Record Chaser
 	1 Indomitable Jicru
@@ -4618,7 +4635,6 @@
 	1 Sanaito, Voidsinger
 	1 Skotha, Titan of Eternal Dark
 	1 Xarr of the Eternal Cycle
-	1 Embrace the Cycle
 	1 Jack, Monster Mentor
 	1 Aonuma, Princely Traveler
 	1 Gemi and Nu, Cachemates
@@ -4687,4 +4703,6 @@
 	1 Electronic Countermeasures
 	1 Willing Acolyte
 	1 Reclaiming Ritual
+	1 Spikey, Jack’s Gravetiller
+	1 Estrathian Gentrifiers
 	
