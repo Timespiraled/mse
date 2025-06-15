@@ -506,7 +506,7 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://github.com/Timespiraled/mse/blob/main/rev/Claes%20Melded%20Spark.jpg"
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Claes%20Melded%20Spark.png"
 				}
 			}
 		},
@@ -691,7 +691,7 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Lion's Charisma.png"
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The%20Lions%20Charisma.png"
 				}
 			}
 		},
@@ -1800,15 +1800,6 @@
 			}
 		},
 		{
-			"name": "Kimja Deadeye",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Samurai ",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Kimja Deadeye.png"
-			}
-		},
-		{
 			"name": "Phyto's Offshoot",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
@@ -1874,6 +1865,15 @@
 				"image_uris": {
 					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tether to Reality.png"
 				}
+			}
+		},
+		{
+			"name": "Reclaiming Ritual",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reclaiming Ritual.png"
 			}
 		},
 		{
@@ -3257,7 +3257,7 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Helping Hand_back.png"
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa Waging War.png"
 				}
 			},
 			"back": {
@@ -4389,7 +4389,6 @@
 	1 Judge, Jury, and Executioner
 	1 Lifehacker
 	1 Slighos the Body-Binder
-	1 Kimja Deadeye
 	1 Phyto's Offshoot
 	1 Askir, the Defiler
 	1 Gray Merchant of Asphodel
