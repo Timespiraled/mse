@@ -607,6 +607,13 @@
 			"type": "Creature — Elf Soldier ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lost Resistor.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Splintered Soul.png"
+				}
 			}
 		},
 		{
@@ -679,6 +686,13 @@
 			"type": "Legendary Creature — Human Soldier ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Basilo, Lion of Valor.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Lion's Charisma.png"
+				}
 			}
 		},
 		{
@@ -751,6 +765,13 @@
 			"type": "Creature — Archon ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Bringer of Heliod's Light.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Blinded by Divinity.png"
+				}
 			}
 		},
 		{
@@ -760,6 +781,13 @@
 			"type": "Creature — Human Archer ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Chosen of Heliod.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Heliod's Glory.png"
+				}
 			}
 		},
 		{
@@ -1021,6 +1049,13 @@
 			"type": "Creature — Siren Wizard ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Charming Siren.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Left to the Sea.png"
+				}
 			}
 		},
 		{
@@ -1228,6 +1263,13 @@
 			"type": "Creature — Cyclops Shaman ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Oracle of Zakros.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ocular Insight.png"
+				}
 			}
 		},
 		{
@@ -1336,6 +1378,13 @@
 			"type": "Enchantment — Policy ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Research Grant.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Progress.png"
+				}
 			}
 		},
 		{
@@ -1534,6 +1583,13 @@
 			"type": "Creature — Human Rogue ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Rooftop Slink.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Synthetic Specter.png"
+				}
 			}
 		},
 		{
@@ -1786,6 +1842,13 @@
 			"type": "Creature — Dragon ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Malicious Skycleaver.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Silverscale Despot.png"
+				}
 			}
 		},
 		{
@@ -1804,6 +1867,13 @@
 			"type": "Creature — Horror ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Furies of the Natural Order.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tether to Reality.png"
+				}
 			}
 		},
 		{
@@ -2200,6 +2270,13 @@
 			"type": "Creature — Bird ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Temperamental Chick.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Tempered Fowl.png"
+				}
 			}
 		},
 		{
@@ -2650,6 +2727,13 @@
 			"type": "Creature — Satyr Scout ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Seeker of New Horizons.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Ilysian Guardian.png"
+				}
 			}
 		},
 		{
@@ -2700,7 +2784,7 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": ""
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Old-Growth Gecko.png"
 				}
 			}
 		},
@@ -2747,6 +2831,13 @@
 			"type": "Enchantment Creature — Centaur Archer  ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Star-Studded Sagittaur.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Equinox Mark.png"
+				}
 			}
 		},
 		{
@@ -3168,6 +3259,13 @@
 				"image_uris": {
 					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Helping Hand_back.png"
 				}
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Vasilisa, Waging War.png"
+				}
 			}
 		},
 		{
@@ -3330,6 +3428,13 @@
 			"type": "Creature — Cat ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spikemane Lion.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spikemane Cloak.png"
+				}
 			}
 		},
 		{
@@ -3393,6 +3498,13 @@
 			"type": "Legendary Creature — Human Cleric ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Alcadia, Cardinal Judge.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/The Omnithority.png"
+				}
 			}
 		},
 		{
@@ -3402,6 +3514,13 @@
 			"type": "Creature — Archon ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Archon of Condemnation.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Confine to Eternity.png"
+				}
 			}
 		},
 		{
@@ -3699,6 +3818,13 @@
 			"type": "Creature — Elk ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omenhorn.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Omenhalo.png"
+				}
 			}
 		},
 		{
@@ -3744,6 +3870,13 @@
 			"type": "Artifact",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Root Fossil.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reborn Lily.png"
+				}
 			}
 		},
 		{
