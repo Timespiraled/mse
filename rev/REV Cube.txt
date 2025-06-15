@@ -501,6 +501,13 @@
 			"type": "Legendary Creature — Human Soldier ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Claes, Shield of Karda.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://github.com/Timespiraled/mse/blob/main/rev/Claes%20Melded%20Spark.jpg"
+				}
 			}
 		},
 		{
@@ -2688,6 +2695,13 @@
 			"type": "Creature — Plant Lizard ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Growing Gecko.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": ""
+				}
 			}
 		},
 		{
@@ -3913,15 +3927,6 @@
 			}
 		},
 		{
-			"name": "Reactor Sphere",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Reactor Sphere.png"
-			}
-		},
-		{
 			"name": "The Smoking Strand",
 			"rarity": "common",
 			"mana_cost": "{3}",
@@ -4058,454 +4063,453 @@
 		},
 		]
 	[WildcardSlot(15)]
-	10 Clearwater Grotto
-	10 Enigmatic Fen
-	10 Lucent Basin
-	10 Misty Peak
-	10 Profane Grove
-	10 Sanguine Palace
-	10 Stark Expanse
-	10 Urban Jungle
-	10 Verdant Sanctum
-	10 Windbeaten Stones
-	10 Desolate Path
-	10 Distant Path
-	10 Erosive Path
-	10 Forlorn Path
-	10 Meandering Path
-	10 Murky Path
-	10 Rousing Path
-	10 Sodden Path
-	10 Thicketed Path
-	10 Torrid Path
-	10 Hazakh District
-	10 Penrath District
-	10 Sillaman District
-	10 Tiril District
-	10 Vishanki District
-	10 Barren Ashlands
-	10 Buried Colossus
-	10 Ephemeral Mire
-	10 Gates to the Underworld
-	10 Hundred-Handed Pillars
-	10 Miasmic Cove
-	10 Nessian Woods
-	10 Nimbus of Thought
-	10 Shell Cove
-	10 Titan's Stairs
-	10 Ardent Rise
-	10 Faulty Server
-	10 Forgotten Junkyard
-	10 Glittering Club
-	10 Isolated Tower
-	10 Lost and Found
-	10 Meteoric Facade
-	10 Regrowing Outlands
-	10 Reified Borough
-	10 Silent Lakefront
-	10 Primal Fissure
-	10 Protean Boughs
-	10 Redeveloped Cityscape
-	10 Steadfast Gatekeepers
-	10 Temple of Origins
-	10 Timeworn Crags
-	10 Estrathe, Center of Civilization
-	10 Mirage Island
-	10 Sky Pillar
-	10 Gate to Fujinobe
-	10 Claes, Shield of Karda
-	10 Danuja, Emperor's Pet
-	10 Kitsune Matriarch
-	10 Mellan, Defense Attorney
-	10 Nomad's Companion
-	10 Ofuda Mistress
-	10 Voice of Utopia
-	10 Contest Coordinator
-	10 Genotype Splicer
-	10 Highland Guide
-	10 Illusory Savior
-	10 Lost Resistor
-	10 Prince of the Pride
-	10 Screeching Grauku
-	10 Sculptor's Replica
-	10 Smart Shopper
-	10 Sunbeam Alseid
-	10 Weave Dispatcher
-	10 Alrantan Archon
-	10 Basilo, Lion of Valor
-	10 Containment Seraph
-	10 Elder Tattooist
-	10 Iara, Blessed-Hart
-	10 Looming Cyhawk
-	10 Renowned Roughrider
-	10 Yokinzan General
-	10 Ayeshi's Agent
-	10 Bringer of Heliod's Light
-	10 Chosen of Heliod
-	10 Imperious Admin
-	10 Mobilization Technician
-	10 Dragon of Recollection
-	10 Agnomakhos, Justice
-	10 General Diadem, Usurper
-	10 Archon of the Legion
-	10 The Army of Trax
-	10 Plasma Strike
-	10 Imperial Tour
-	10 Omen of Victory
-	10 Seal Away
-	10 Swift Reproach
-	10 The Ruins Awaken
-	10 Futurist Ideal
-	10 Gone Pickin'
-	10 RETURN()
-	10 The Fall of Trax
-	10 Cassia the Carefree
-	10 Chronicle of Bequeathal
-	10 EXIT()
-	10 Remnant of Valor
-	10 Chromatic Rift
-	10 Revolt at the Palace
-	10 The Dutiful Wanderer
-	10 Welkin Eviction
-	10 Illustrious Sheng Fa
-	10 Tyranny of Trax
-	10 Auspicious Return
-	10 Charming Siren
-	10 Demographer
-	10 Sleeper Strix
-	10 Tireless Aspirants
-	10 Agent of Deception
-	10 Daring Shinobi
-	10 Haubay's Familiar
-	10 Unspeaking Titan
-	10 Whitecliff Pilgrim
-	10 Battle Physicist
-	10 Callisto, the Teqiarch
-	10 Covetous Frostwyrm
-	10 Twilight Agent
-	10 Trinity of Fates
-	10 Mnemologist
-	10 Opal-Eye Allseer
-	10 Preemption Daemon
-	10 Threadweaver Shinobi
-	10 Eidolon of Graceful Steps
-	10 Convol, Archive Exec
-	10 Jetstream Cruiser
-	10 King of Shallow Shores
-	10 Stormscraper of Ketaphos
-	10 Oracle of Zakros
-	10 Behemoth of the Five Rivers
-	10 Cybersaurus
-	10 Raboorah Goliath
-	10 Underflow_Error
-	10 Ebb and Flow
-	10 Industrialize
-	10 Thassa's Caress
-	10 Deft Deflection
-	10 Negate
-	10 Omen of Deception
-	10 Ominous Seas
-	10 Research Grant
-	10 Sink into Obscurity
-	10 Avatar's Whim
-	10 Chronicle of Precedence
-	10 Divine Mishap
-	10 Marilye, Dreaming Big
-	10 Siphon Energy
-	10 The Founding of the Twelve
-	10 Callisto's Confiscation
-	10 Rain Dance
-	10 Elder Eras
-	10 Grasp of the Elements
-	10 The Sinking of Olantin
-	10 The World Stood Still
-	10 The Arbiter
-	10 Leystone of Depths
-	10 Pass Judgment
-	10 Voyage to the Siren Sea
-	10 Seafloor Treasures
-	10 Scour All Possibilities
-	10 Gaze Upon Civilization
-	10 Aphonai's Reveler
-	10 Rooftop Slink
-	10 Capital Skyraiders
-	10 Omen Skulker
-	10 Catabolist
-	10 Exorcist of Errors
-	10 Fallen Heartseeker
-	10 Inklight Dancer
-	10 Keeper of the Scale
-	10 Lurking Vyrkolakas
-	10 Replicrawler
-	10 Smiling Sludge
-	10 Barbarous Roughrider
-	10 Chrolcatos, Pidae's Founder
-	10 Data Weaver
-	10 Corrupt Congressman
-	10 Kage's Mercenary
-	10 Merciless Headsman
-	10 The Venerable Veteran
-	10 Merciless Ruiner
-	10 Spiteful Griefer
-	10 Inner Ring's Pupil
-	10 Judge, Jury, and Executioner
-	10 Lifehacker
-	10 Slighos the Body-Binder
-	10 Kimja Deadeye
-	10 Phyto's Offshoot
-	10 Askir, the Defiler
-	10 Gray Merchant of Asphodel
-	10 Malicious Skycleaver
-	10 General of the Damned
-	10 Furies of the Natural Order
-	10 Absentia
-	10 Downlink Overload
-	10 Duress
-	10 Phenax's Touch
-	10 Agonizing Remorse
-	10 Aspect of the End
-	10 Deadly Dispute
-	10 Dissect Intel
-	10 Drag into the Dark
-	10 Forced Shutdown
-	10 Hang
-	10 Hostage Situation
-	10 Maim
-	10 Omen of Slaughter
-	10 Stained Strokes
-	10 Failed Gateway
-	10 Out with the Old
-	10 Serve Again
-	10 The Path of Phenax
-	10 Chronicle of Extinction
-	10 Conqueror's Glee
-	10 Noxious Conditions
-	10 Damn to Hell
-	10 Reboot
-	10 The Inferno Gate Opens
-	10 Calamity Cat
-	10 Hero in the Making
-	10 Impulsive Underling
-	10 Jorgen, Martyr of the Rathomar
-	10 Newborn Oni
-	10 Red-Hot Rider
-	10 Arid Outrider
-	10 Eidolon of Empty Thoughts
-	10 Ragecloak Shifter
-	10 Cache Thrasher
-	10 Estranged Aristocrat
-	10 Gubernatorial Fundraiser
-	10 Kage's Slayer
-	10 Kirin of Boons
-	10 Pensive Caldera
-	10 Satyr Arsonist
-	10 Savvy Smith
-	10 Skophos Raid-Veteran
-	10 Temperamental Chick
-	10 Audacious Roughrider
-	10 Fabricated Anomaly
-	10 Lightning Warmonger
-	10 Wildfang Cavalier
-	10 Apprentice of the Forge-God
-	10 Ardor, Forefront of Freedom
-	10 Generator Alpha
-	10 Eviviva, Grip Exec
-	10 Chainbreaker's Familiar
-	10 Threadripper
-	10 Wisping Kirin
-	10 Molten Slagmaw
-	10 Darisha, Stack Exec
-	10 Opal-Eye Caretaker
-	10 Architect of the Intangible
-	10 Spore Collector
-	10 Firebolt
-	10 Igneous Visions
-	10 Leystone of Storms
-	10 Magma Flow
-	10 Momentous Charge
-	10 Punishment from Nyx
-	10 Terminal Impact
-	10 Bleeding Out
-	10 Conscript
-	10 Flags on High
-	10 Flame Whip
-	10 Frag
-	10 Hell's Boon
-	10 Ignite
-	10 Set Ablaze
-	10 Shigane Manor Burns
-	10 Spiteful Banditry
-	10 Chronicle of Armageddon
-	10 Crumbling Tower
-	10 Elektes's Charge
-	10 Gericho, Ageless Wanderer
-	10 High Voltage
-	10 Karda's Legacy
-	10 The Burning of Pidae
-	10 Koios, Spear of Karda
-	10 PANIC()
-	10 Audience at Zakros
-	10 Competitive Hedonist
-	10 Collector's Item
-	10 Siflir, Elder Pawn
-	10 Brass Oracle
-	10 Festered Effluvium
-	10 Orochi Soulfang
-	10 Seeker of New Horizons
-	10 Mystery Egg
-	10 Aethersteel Pouncer
-	10 Aspiring Anarchist
-	10 Concurrent Escapist
-	10 Growing Gecko
-	10 Masksmith
-	10 Megafauna Knight
-	10 Menelaia, Beloved Lyrist
-	10 Morbid Bloomer
-	10 Star-Studded Sagittaur
-	10 Uncoiling Realmspawn
-	10 Alrantan Visionary
-	10 Brutal Throatcrusher
-	10 Grassroots Campaigners
-	10 Hearty Roughrider
-	10 Skittertiller
-	10 Ozanwood Huntsman
-	10 Skola Nyxweaver
-	10 Unflinching Titan
-	10 Battlehymn Howler
-	10 Imperfect Fugisaur
-	10 Jens Slopeskidder
-	10 Nessian Scout-Captain
-	10 Realmweft Kitsune
-	10 Ribbon Dancer
-	10 Ageless Seishin
-	10 Parental Pair
-	10 Realm Violator
-	10 Resource_Inversion
-	10 Scourge of Capitalism
-	10 A Journey Begins
-	10 Momentous Strike
-	10 Slumbering Grove
-	10 Ancestor's Guidance
-	10 Clear Skies
-	10 Realmweft Implosion
-	10 Winding Way
-	10 Bulk Bioengineering
-	10 Digital Reliquary
-	10 GENERATE()
-	10 Mapper's Wanderings
-	10 Ozan's Blessing
-	10 Portal to the Spirit Realm
-	10 Rebuilding of Londel
-	10 Sustainable Investments
-	10 Thunderous Avalanche
-	10 Cartographer's Skill
-	10 Awakening in Oldun
-	10 Chronicle of Awakening
-	10 Grow Over
-	10 International Development
-	10 Disestablishmentarianism
-	10 Hostile Evolution
-	10 Grasp of the Yeti
-	10 SEEK()
-	10 Vasilisa, Helping Hand
-	10 Aether Dancer
-	10 Ephara's Judgment
-	10 Nimomae, Who Flows
-	10 Seal Shoals
-	10 Squallrunner Duo
-	10 Defect
-	10 Scrapyard Mecha
-	10 Weft Dancer
-	10 Identity Forger
-	10 Blind Keelah
-	10 Garren, Returned Prophet
-	10 Godslaughter Titan
-	10 Mogis, Rage-Crowned
-	10 Scattering Swine
-	10 Creation's Combustion
-	10 Abominable Avalanche
-	10 Foreign Encounter
-	10 Spikemane Lion
-	10 Xeia, Record Chaser
-	10 Indomitable Jicru
-	10 Survivors of the New World
-	10 Warden of Skies
-	10 Axiomatic Shift
-	10 Empowered Revisionary
-	10 Alcadia, Cardinal Judge
-	10 Archon of Condemnation
-	10 Banisher Rifle
-	10 Warden of Wishes
-	10 Sanaito, Voidsinger
-	10 Skotha, Titan of Eternal Dark
-	10 Xarr of the Eternal Cycle
-	10 Embrace the Cycle
-	10 Jack, Monster Mentor
-	10 Aonuma, Princely Traveler
-	10 Gemi and Nu, Cachemates
-	10 Kruphix, Far-Seeing
-	10 Ruin, the First Shard
-	10 Simul, Genetic Artisan
-	10 Keranos, Fickle-Fortuned
-	10 Olis Mars, Final Archivist
-	10 Phlage, Titan of Burning Wind
-	10 Get Your Wish
-	10 Keranos's Judgment
-	10 Elektes, First King of Akros
-	10 Iroas's Judgment
-	10 Lead and Follow
-	10 Nikon, Skophos Protector
-	10 Toki, Celebrity Soldier
-	10 Severin, Sparkmind
-	10 The Connaistone
-	10 Whirring Inspector
-	10 Ayeshi, Time's Jailer
-	10 Extraction Mission
-	10 Assault Engine
-	10 Adaptive Hydra
-	10 Chief Executive Dhante
-	10 Penrath Dispatcher
-	10 Storm the Senate
-	10 Omenhorn
-	10 The Berry Master
-	10 Leyspark Wielder
-	10 Echocrafter
-	10 Echo Choreographer
-	10 Root Fossil
-	10 Hungry Blob
-	10 Yingjun's Presence
-	10 Ignited Soul
-	10 Majesty
-	10 Ragtag Squad
-	10 Bind Life to Steel
-	10 Ikurimoko's Presence
-	10 Archaic Obelisk
-	10 Geometry Stabilizer
-	10 Helen's Failsafe
-	10 Helm of the Shattered Realm
-	10 Implacable Shrine-Guard
-	10 Leyshard
-	10 Magnetling
-	10 Moonlit Gateway
-	10 Nerul, Blade of the Ancients
-	10 Plasma Armory
-	10 Protean Golem
-	10 The Shattered Throne
-	10 Reactor Sphere
-	10 Reactor Sphere
-	10 The Smoking Strand
-	10 Soul-Guide Lantern
-	10 Spirit Realm Medallion
-	10 Takashi, City on the Wind
-	10 Totemic Guidestones
-	10 Warpway Rings
-	10 MAP()
-	10 Colossus of Trax
-	10 Blade of Clouded Pasts
-	10 Archival Storage
-	10 Weather Elemental
-	10 Biaas the Poison Drinker
-	10 Parse
-	10 Electronic Countermeasures
-	10 Willing Acolyte
+	1 Clearwater Grotto
+	1 Enigmatic Fen
+	1 Lucent Basin
+	1 Misty Peak
+	1 Profane Grove
+	1 Sanguine Palace
+	1 Stark Expanse
+	1 Urban Jungle
+	1 Verdant Sanctum
+	1 Windbeaten Stones
+	1 Desolate Path
+	1 Distant Path
+	1 Erosive Path
+	1 Forlorn Path
+	1 Meandering Path
+	1 Murky Path
+	1 Rousing Path
+	1 Sodden Path
+	1 Thicketed Path
+	1 Torrid Path
+	1 Hazakh District
+	1 Penrath District
+	1 Sillaman District
+	1 Tiril District
+	1 Vishanki District
+	1 Barren Ashlands
+	1 Buried Colossus
+	1 Ephemeral Mire
+	1 Gates to the Underworld
+	1 Hundred-Handed Pillars
+	1 Miasmic Cove
+	1 Nessian Woods
+	1 Nimbus of Thought
+	1 Shell Cove
+	1 Titan's Stairs
+	1 Ardent Rise
+	1 Faulty Server
+	1 Forgotten Junkyard
+	1 Glittering Club
+	1 Isolated Tower
+	1 Lost and Found
+	1 Meteoric Facade
+	1 Regrowing Outlands
+	1 Reified Borough
+	1 Silent Lakefront
+	1 Primal Fissure
+	1 Protean Boughs
+	1 Redeveloped Cityscape
+	1 Steadfast Gatekeepers
+	1 Temple of Origins
+	1 Timeworn Crags
+	1 Estrathe, Center of Civilization
+	1 Mirage Island
+	1 Sky Pillar
+	1 Gate to Fujinobe
+	1 Claes, Shield of Karda
+	1 Danuja, Emperor's Pet
+	1 Kitsune Matriarch
+	1 Mellan, Defense Attorney
+	1 Nomad's Companion
+	1 Ofuda Mistress
+	1 Voice of Utopia
+	1 Contest Coordinator
+	1 Genotype Splicer
+	1 Highland Guide
+	1 Illusory Savior
+	1 Lost Resistor
+	1 Prince of the Pride
+	1 Screeching Grauku
+	1 Sculptor's Replica
+	1 Smart Shopper
+	1 Sunbeam Alseid
+	1 Weave Dispatcher
+	1 Alrantan Archon
+	1 Basilo, Lion of Valor
+	1 Containment Seraph
+	1 Elder Tattooist
+	1 Iara, Blessed-Hart
+	1 Looming Cyhawk
+	1 Renowned Roughrider
+	1 Yokinzan General
+	1 Ayeshi's Agent
+	1 Bringer of Heliod's Light
+	1 Chosen of Heliod
+	1 Imperious Admin
+	1 Mobilization Technician
+	1 Dragon of Recollection
+	1 Agnomakhos, Justice
+	1 General Diadem, Usurper
+	1 Archon of the Legion
+	1 The Army of Trax
+	1 Plasma Strike
+	1 Imperial Tour
+	1 Omen of Victory
+	1 Seal Away
+	1 Swift Reproach
+	1 The Ruins Awaken
+	1 Futurist Ideal
+	1 Gone Pickin'
+	1 RETURN()
+	1 The Fall of Trax
+	1 Cassia the Carefree
+	1 Chronicle of Bequeathal
+	1 EXIT()
+	1 Remnant of Valor
+	1 Chromatic Rift
+	1 Revolt at the Palace
+	1 The Dutiful Wanderer
+	1 Welkin Eviction
+	1 Illustrious Sheng Fa
+	1 Tyranny of Trax
+	1 Auspicious Return
+	1 Charming Siren
+	1 Demographer
+	1 Sleeper Strix
+	1 Tireless Aspirants
+	1 Agent of Deception
+	1 Daring Shinobi
+	1 Haubay's Familiar
+	1 Unspeaking Titan
+	1 Whitecliff Pilgrim
+	1 Battle Physicist
+	1 Callisto, the Teqiarch
+	1 Covetous Frostwyrm
+	1 Twilight Agent
+	1 Trinity of Fates
+	1 Mnemologist
+	1 Opal-Eye Allseer
+	1 Preemption Daemon
+	1 Threadweaver Shinobi
+	1 Eidolon of Graceful Steps
+	1 Convol, Archive Exec
+	1 Jetstream Cruiser
+	1 King of Shallow Shores
+	1 Stormscraper of Ketaphos
+	1 Oracle of Zakros
+	1 Behemoth of the Five Rivers
+	1 Cybersaurus
+	1 Raboorah Goliath
+	1 Underflow_Error
+	1 Ebb and Flow
+	1 Industrialize
+	1 Thassa's Caress
+	1 Deft Deflection
+	1 Negate
+	1 Omen of Deception
+	1 Ominous Seas
+	1 Research Grant
+	1 Sink into Obscurity
+	1 Avatar's Whim
+	1 Chronicle of Precedence
+	1 Divine Mishap
+	1 Marilye, Dreaming Big
+	1 Siphon Energy
+	1 The Founding of the Twelve
+	1 Callisto's Confiscation
+	1 Rain Dance
+	1 Elder Eras
+	1 Grasp of the Elements
+	1 The Sinking of Olantin
+	1 The World Stood Still
+	1 The Arbiter
+	1 Leystone of Depths
+	1 Pass Judgment
+	1 Voyage to the Siren Sea
+	1 Seafloor Treasures
+	1 Scour All Possibilities
+	1 Gaze Upon Civilization
+	1 Aphonai's Reveler
+	1 Rooftop Slink
+	1 Capital Skyraiders
+	1 Omen Skulker
+	1 Catabolist
+	1 Exorcist of Errors
+	1 Fallen Heartseeker
+	1 Inklight Dancer
+	1 Keeper of the Scale
+	1 Lurking Vyrkolakas
+	1 Replicrawler
+	1 Smiling Sludge
+	1 Barbarous Roughrider
+	1 Chrolcatos, Pidae's Founder
+	1 Data Weaver
+	1 Corrupt Congressman
+	1 Kage's Mercenary
+	1 Merciless Headsman
+	1 The Venerable Veteran
+	1 Merciless Ruiner
+	1 Spiteful Griefer
+	1 Inner Ring's Pupil
+	1 Judge, Jury, and Executioner
+	1 Lifehacker
+	1 Slighos the Body-Binder
+	1 Kimja Deadeye
+	1 Phyto's Offshoot
+	1 Askir, the Defiler
+	1 Gray Merchant of Asphodel
+	1 Malicious Skycleaver
+	1 General of the Damned
+	1 Furies of the Natural Order
+	1 Absentia
+	1 Downlink Overload
+	1 Duress
+	1 Phenax's Touch
+	1 Agonizing Remorse
+	1 Aspect of the End
+	1 Deadly Dispute
+	1 Dissect Intel
+	1 Drag into the Dark
+	1 Forced Shutdown
+	1 Hang
+	1 Hostage Situation
+	1 Maim
+	1 Omen of Slaughter
+	1 Stained Strokes
+	1 Failed Gateway
+	1 Out with the Old
+	1 Serve Again
+	1 The Path of Phenax
+	1 Chronicle of Extinction
+	1 Conqueror's Glee
+	1 Noxious Conditions
+	1 Damn to Hell
+	1 Reboot
+	1 The Inferno Gate Opens
+	1 Calamity Cat
+	1 Hero in the Making
+	1 Impulsive Underling
+	1 Jorgen, Martyr of the Rathomar
+	1 Newborn Oni
+	1 Red-Hot Rider
+	1 Arid Outrider
+	1 Eidolon of Empty Thoughts
+	1 Ragecloak Shifter
+	1 Cache Thrasher
+	1 Estranged Aristocrat
+	1 Gubernatorial Fundraiser
+	1 Kage's Slayer
+	1 Kirin of Boons
+	1 Pensive Caldera
+	1 Satyr Arsonist
+	1 Savvy Smith
+	1 Skophos Raid-Veteran
+	1 Temperamental Chick
+	1 Audacious Roughrider
+	1 Fabricated Anomaly
+	1 Lightning Warmonger
+	1 Wildfang Cavalier
+	1 Apprentice of the Forge-God
+	1 Ardor, Forefront of Freedom
+	1 Generator Alpha
+	1 Eviviva, Grip Exec
+	1 Chainbreaker's Familiar
+	1 Threadripper
+	1 Wisping Kirin
+	1 Molten Slagmaw
+	1 Darisha, Stack Exec
+	1 Opal-Eye Caretaker
+	1 Architect of the Intangible
+	1 Spore Collector
+	1 Firebolt
+	1 Igneous Visions
+	1 Leystone of Storms
+	1 Magma Flow
+	1 Momentous Charge
+	1 Punishment from Nyx
+	1 Terminal Impact
+	1 Bleeding Out
+	1 Conscript
+	1 Flags on High
+	1 Flame Whip
+	1 Frag
+	1 Hell's Boon
+	1 Ignite
+	1 Set Ablaze
+	1 Shigane Manor Burns
+	1 Spiteful Banditry
+	1 Chronicle of Armageddon
+	1 Crumbling Tower
+	1 Elektes's Charge
+	1 Gericho, Ageless Wanderer
+	1 High Voltage
+	1 Karda's Legacy
+	1 The Burning of Pidae
+	1 Koios, Spear of Karda
+	1 PANIC()
+	1 Audience at Zakros
+	1 Competitive Hedonist
+	1 Collector's Item
+	1 Siflir, Elder Pawn
+	1 Brass Oracle
+	1 Festered Effluvium
+	1 Orochi Soulfang
+	1 Seeker of New Horizons
+	1 Mystery Egg
+	1 Aethersteel Pouncer
+	1 Aspiring Anarchist
+	1 Concurrent Escapist
+	1 Growing Gecko
+	1 Masksmith
+	1 Megafauna Knight
+	1 Menelaia, Beloved Lyrist
+	1 Morbid Bloomer
+	1 Star-Studded Sagittaur
+	1 Uncoiling Realmspawn
+	1 Alrantan Visionary
+	1 Brutal Throatcrusher
+	1 Grassroots Campaigners
+	1 Hearty Roughrider
+	1 Skittertiller
+	1 Ozanwood Huntsman
+	1 Skola Nyxweaver
+	1 Unflinching Titan
+	1 Battlehymn Howler
+	1 Imperfect Fugisaur
+	1 Jens Slopeskidder
+	1 Nessian Scout-Captain
+	1 Realmweft Kitsune
+	1 Ribbon Dancer
+	1 Ageless Seishin
+	1 Parental Pair
+	1 Realm Violator
+	1 Resource_Inversion
+	1 Scourge of Capitalism
+	1 A Journey Begins
+	1 Momentous Strike
+	1 Slumbering Grove
+	1 Ancestor's Guidance
+	1 Clear Skies
+	1 Realmweft Implosion
+	1 Winding Way
+	1 Bulk Bioengineering
+	1 Digital Reliquary
+	1 GENERATE()
+	1 Mapper's Wanderings
+	1 Ozan's Blessing
+	1 Portal to the Spirit Realm
+	1 Rebuilding of Londel
+	1 Sustainable Investments
+	1 Thunderous Avalanche
+	1 Cartographer's Skill
+	1 Awakening in Oldun
+	1 Chronicle of Awakening
+	1 Grow Over
+	1 International Development
+	1 Disestablishmentarianism
+	1 Hostile Evolution
+	1 Grasp of the Yeti
+	1 SEEK()
+	1 Vasilisa, Helping Hand
+	1 Aether Dancer
+	1 Ephara's Judgment
+	1 Nimomae, Who Flows
+	1 Seal Shoals
+	1 Squallrunner Duo
+	1 Defect
+	1 Scrapyard Mecha
+	1 Weft Dancer
+	1 Identity Forger
+	1 Blind Keelah
+	1 Garren, Returned Prophet
+	1 Godslaughter Titan
+	1 Mogis, Rage-Crowned
+	1 Scattering Swine
+	1 Creation's Combustion
+	1 Abominable Avalanche
+	1 Foreign Encounter
+	1 Spikemane Lion
+	1 Xeia, Record Chaser
+	1 Indomitable Jicru
+	1 Survivors of the New World
+	1 Warden of Skies
+	1 Axiomatic Shift
+	1 Empowered Revisionary
+	1 Alcadia, Cardinal Judge
+	1 Archon of Condemnation
+	1 Banisher Rifle
+	1 Warden of Wishes
+	1 Sanaito, Voidsinger
+	1 Skotha, Titan of Eternal Dark
+	1 Xarr of the Eternal Cycle
+	1 Embrace the Cycle
+	1 Jack, Monster Mentor
+	1 Aonuma, Princely Traveler
+	1 Gemi and Nu, Cachemates
+	1 Kruphix, Far-Seeing
+	1 Ruin, the First Shard
+	1 Simul, Genetic Artisan
+	1 Keranos, Fickle-Fortuned
+	1 Olis Mars, Final Archivist
+	1 Phlage, Titan of Burning Wind
+	1 Get Your Wish
+	1 Keranos's Judgment
+	1 Elektes, First King of Akros
+	1 Iroas's Judgment
+	1 Lead and Follow
+	1 Nikon, Skophos Protector
+	1 Toki, Celebrity Soldier
+	1 Severin, Sparkmind
+	1 The Connaistone
+	1 Whirring Inspector
+	1 Ayeshi, Time's Jailer
+	1 Extraction Mission
+	1 Assault Engine
+	1 Adaptive Hydra
+	1 Chief Executive Dhante
+	1 Penrath Dispatcher
+	1 Storm the Senate
+	1 Omenhorn
+	1 The Berry Master
+	1 Leyspark Wielder
+	1 Echocrafter
+	1 Echo Choreographer
+	1 Root Fossil
+	1 Hungry Blob
+	1 Yingjun's Presence
+	1 Ignited Soul
+	1 Majesty
+	1 Ragtag Squad
+	1 Bind Life to Steel
+	1 Ikurimoko's Presence
+	1 Archaic Obelisk
+	1 Geometry Stabilizer
+	1 Helen's Failsafe
+	1 Helm of the Shattered Realm
+	1 Implacable Shrine-Guard
+	1 Leyshard
+	1 Magnetling
+	1 Moonlit Gateway
+	1 Nerul, Blade of the Ancients
+	1 Plasma Armory
+	1 Protean Golem
+	1 The Shattered Throne
+	2 Reactor Sphere
+	1 The Smoking Strand
+	1 Soul-Guide Lantern
+	1 Spirit Realm Medallion
+	1 Takashi, City on the Wind
+	1 Totemic Guidestones
+	1 Warpway Rings
+	1 MAP()
+	1 Colossus of Trax
+	1 Blade of Clouded Pasts
+	1 Archival Storage
+	1 Weather Elemental
+	1 Biaas the Poison Drinker
+	1 Parse
+	1 Electronic Countermeasures
+	1 Willing Acolyte
 	
