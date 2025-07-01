@@ -3027,12 +3027,12 @@
 			}
 		},
 		{
-			"name": "Parental Pair",
+			"name": "Lagoroth, Century’s Apex",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Beast ",
+			"type": "Legendary Creature — Elemental Beast ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Parental Pair.png"
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Lagoroth Centurys Apex.png"
 			}
 		},
 		{
@@ -4251,7 +4251,7 @@
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Plant Horror",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Spikey Jacks Tiller.png"
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/refs/heads/main/rev/Spikey%20Jacks%20Gravetiller.png"
 			}
 		},
 		]
@@ -4575,7 +4575,7 @@
 	1 Realmweft Kitsune
 	1 Ribbon Dancer
 	1 Ageless Seishin
-	1 Parental Pair
+	1 Lagoroth, Century’s Apex
 	1 Realm Violator
 	1 Resource_Inversion
 	1 Scourge of Capitalism
