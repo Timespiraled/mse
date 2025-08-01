@@ -1715,12 +1715,12 @@
 			}
 		},
 		{
-			"name": "Data Weaver",
+			"name": "Urban Explorer",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Azra Warlock ",
+			"type": "Creature — Human Ranger ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Data Weaver.png"
+				"en": "https://raw.githubusercontent.com/Timespiraled/mse/main/rev/Urban Explorer.png"
 			}
 		},
 		{
@@ -4438,7 +4438,7 @@
 	1 Smiling Sludge
 	1 Barbarous Roughrider
 	1 Chrolcatos, Pidae's Founder
-	1 Data Weaver
+	1 Urban Explorer
 	1 Corrupt Congressman
 	1 Kage's Mercenary
 	1 Merciless Headsman
